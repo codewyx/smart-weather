@@ -8,6 +8,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
+  "output": "dist",
   "keywords": [],
   "author": "codewyx",
   "license": "MIT",
